@@ -46,7 +46,7 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
 <h3>pieces</h3>
 <p>
-    time passes, time will come
+    time passes, time will come.
 </p>
 <br />
 <hr />
